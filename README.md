@@ -9,12 +9,13 @@ Arch BTW
 1. i3
 2. i3status-rs
 3. alacritty
+4. picom
 
 ### Packages i use from the base pacman repos.
 
 1. i3-wm
 2. zsh along with [Oh My ZSH!](https://ohmyz.sh/) using the sorin theme
-3. rofi
+3. dmenu
 4. nitrogen
 5. alacritty along with [Alacritty Themes](https://github.com/alacritty/alacritty-theme) using the catppuccin_frappe theme
 6. nano
@@ -33,6 +34,7 @@ Arch BTW
 19. git
 20. lxsession
 21. xdg-desktop-portal-gtk
+22. picom
 
 ### Packages from the aur i use.
 
