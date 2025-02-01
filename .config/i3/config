@@ -220,6 +220,9 @@ exec xrandr --output DP-1 --mode 1920x1080 --rate 165.00
 #cuz for some fucking reason i3 doesn't load systemd graphical-session.target on startup.
 exec --no-startup-id otd-daemon
 
+#This loads picom with the config
+exec --no-startup-id picom -d --config ~/.config/picom/picom.conf
+
 #Custom Keybinds
 bindsym $mod+Shift+z exec dolphin
 bindsym $mod+p exec flameshot gui
