@@ -10,6 +10,7 @@ Arch BTW
 2. i3status-rs
 3. alacritty
 4. picom
+5. zsh
 
 ### Packages i use from the base pacman repos.
 
