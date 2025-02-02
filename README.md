@@ -51,3 +51,4 @@ Arch BTW
 3. osu!Lazer
 4. Prismlauncher
 5. Flatseal
+6. pwvucontrol
