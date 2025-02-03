@@ -17,7 +17,7 @@ Arch BTW
 
 1. i3-wm
 2. zsh along with [Oh My ZSH!](https://ohmyz.sh/) using the sorin theme
-3. rofi with my edited [themes] https://github.com/copeison/rofi-themes)
+3. rofi with my edited [themes](https://github.com/copeison/rofi-themes)
 4. nitrogen
 5. alacritty along with [Alacritty Themes](https://github.com/alacritty/alacritty-theme) using the catppuccin_frappe theme
 6. nano
