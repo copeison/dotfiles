@@ -11,6 +11,7 @@ Arch BTW
 3. alacritty
 4. picom
 5. zsh
+6. rofi
 
 ### Packages i use from the base pacman repos.
 
