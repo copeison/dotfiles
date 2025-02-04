@@ -47,9 +47,8 @@ Arch BTW
 5. Font Awesome 4
 
 ### Flatpaks i use
-1. Vesktop
-2. Spotify
-3. osu!Lazer
-4. Prismlauncher
-5. Flatseal
-6. pwvucontrol
+1. Spotify
+2. osu!Lazer
+3. Prismlauncher
+4. Flatseal
+5. pwvucontrol
