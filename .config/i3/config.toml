@@ -40,7 +40,7 @@ cmd = "pwvucontrol"
 
 [[block]]
 block = "music"
-format = " $icon {$combo.str(max_w:40) $play $next |}"
+format = " $icon {$combo.str(max_w:100) $play $next |}"
 player = "spotify"
 
 [[block]]
