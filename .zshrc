@@ -108,4 +108,4 @@ alias sudo='doas'
 alias sudoedit='doas rnano'
 
 #colorscript
-colorscript -r
+colorscript --exec six
