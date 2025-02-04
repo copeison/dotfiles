@@ -50,6 +50,17 @@ alert = 10.0
 format = " $icon root: $available.eng(w:2) "
 
 [[block]]
+block = "weather"
+format = " $icon $weather $temp, $wind m/s $direction "
+format_alt = " $icon_ffin Forecast (9 hour avg) {$temp_favg ({$temp_fmin}-{$temp_fmax})|Unavailable} "
+[block.service]
+name = "openweathermap"
+api_key = "key"
+city_id = "id"
+units = "metric"
+forecast_hours = 9
+
+[[block]]
 block = "time"
 interval = 5
 format = " $timestamp.datetime(f:'%a %m/%d %R') "
