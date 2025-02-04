@@ -38,14 +38,14 @@ Arch BTW
 21. xdg-desktop-portal-gtk
 22. picom
 23. discord
+24. i3status-rust
 
 ### Packages from the aur i use.
 
-1. i3status-rs using the modern theme
-2. yay.git
-3. colorscript
-4. opentabletdriver
-5. Font Awesome 4
+1. yay.git
+2. colorscript
+3. opentabletdriver
+4. Font Awesome 4
 
 ### Flatpaks i use
 1. Spotify
