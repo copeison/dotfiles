@@ -39,6 +39,11 @@ button = "left"
 cmd = "pwvucontrol"
 
 [[block]]
+block = "music"
+format = " $icon {$combo.str(max_w:40) $play $next |}"
+player = "spotify"
+
+[[block]]
 block = "time"
 interval = 5
 format = " $timestamp.datetime(f:'%a %m/%d %R') "
