@@ -37,6 +37,7 @@ Arch BTW
 20. lxsession
 21. xdg-desktop-portal-gtk
 22. picom
+23. discord
 
 ### Packages from the aur i use.
 
