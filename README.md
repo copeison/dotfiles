@@ -39,6 +39,7 @@ Arch BTW
 22. picom
 23. discord
 24. i3status-rust
+25. python-i3ipc
 
 ### Packages from the aur i use.
 
@@ -48,8 +49,13 @@ Arch BTW
 4. Font Awesome 4
 
 ### Flatpaks i use
+
 1. Spotify
 2. osu!Lazer
 3. Prismlauncher
 4. Flatseal
 5. pwvucontrol
+
+### Scripts i use
+
+1. [autotiling](https://github.com/nwg-piotr/autotiling)
