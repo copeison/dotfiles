@@ -225,6 +225,9 @@ exec --no-startup-id otd-daemon
 #This loads picom with the config
 exec --no-startup-id picom -d --config ~/.config/picom/picom.conf
 
+#This loads autotiling
+exec_always --no-startup-id autotiling
+
 #Custom Keybinds
 bindsym $mod+Shift+z exec dolphin
 bindsym $mod+p exec flameshot gui
