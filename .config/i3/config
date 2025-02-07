@@ -209,6 +209,9 @@ bar {
         status_command i3status-rs /home/ethan/.config/i3/config.toml
 }
 
+#Removes the title bar from apps
+for_window [class="^.*"] border pixel 0
+
 #Auto loads nitrogen for the bg
 exec --no-startup-id nitrogen --restore
 
