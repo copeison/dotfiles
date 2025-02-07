@@ -51,7 +51,7 @@ format = " $icon root: $available.eng(w:2) "
 
 [[block]]
 block = "weather"
-format = " $icon $weather $temp, $wind m/s $direction "
+format = " $icon $weather $temp "
 format_alt = " $icon_ffin Forecast (9 hour avg) {$temp_favg ({$temp_fmin}-{$temp_fmax})|Unavailable} "
 [block.service]
 name = "openweathermap"
