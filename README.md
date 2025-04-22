@@ -23,6 +23,7 @@ Arch BTW
 4. gnome-keyring
 5. xdg-desktop-portal-hyprland
 6. mako
+7. hyprpolkitagent
 
 #### Aur packages i use on hyprland.
 
