@@ -12,35 +12,51 @@ Arch BTW
 4. picom
 5. zsh
 6. rofi
+7. hyprland
+8. hyprpaper
+9. waybar
+
+### Packages i use on hyprland.
+1. hyprland
+2. waybar
+3. hyprpaper
+4. gnome-keyring
+5. xdg-desktop-portal-hyprland
+
+#### Aur packages i use on hyprland.
+
+1. xwaylandvideobridge
+
+### Packages i use on i3.
+
+1. i3-wm
+2. xdg-desktop-portal-gtk
+3. picom
+4. nitrogen
+5. i3status-rust
+6. python-i3ipc
+7. autotiling
+8. flameshot
 
 ### Packages i use from the base pacman repos.
 
-1. i3-wm
-2. zsh along with [Oh My ZSH!](https://ohmyz.sh/) using the sorin theme
-3. rofi with my edited [themes](https://github.com/copeison/rofi-themes)
-4. nitrogen
-5. alacritty along with [Alacritty Themes](https://github.com/alacritty/alacritty-theme) using the catppuccin_frappe theme
-6. nano
-7. firefox
-8. code
-9. steam
-10. flatpak
-11. flameshot
-12. opendoas
-13. lolcat
-14. sddm
-15. networkmanager
-16. audacity
-17. kdenlive
-18. dolphin
-19. git
-20. lxsession
-21. xdg-desktop-portal-gtk
-22. picom
-23. discord
-24. i3status-rust
-25. python-i3ipc
-26. autotiling
+1. zsh along with [Oh My ZSH!](https://ohmyz.sh/) using the sorin theme
+2. rofi with my edited [themes](https://github.com/copeison/rofi-themes)
+3. alacritty along with [Alacritty Themes](https://github.com/alacritty/alacritty-theme) using the catppuccin_frappe theme
+4. nano
+5. code
+6. steam
+7. flatpak
+8. opendoas
+9. lolcat
+10. sddm
+11. networkmanager
+12. audacity
+13. kdenlive
+14. dolphin
+15. git
+16. lxsession
+17. discord
 
 ### Packages from the aur i use.
 
@@ -56,3 +72,4 @@ Arch BTW
 3. Prismlauncher
 4. Flatseal
 5. pwvucontrol
+6. Zen Browser
