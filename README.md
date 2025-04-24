@@ -24,10 +24,14 @@ Arch BTW
 5. xdg-desktop-portal-hyprland
 6. mako
 7. hyprpolkitagent
+8. grim
+9. slurp
+10. wl-clipboard
 
 #### Aur packages i use on hyprland.
 
 1. xwaylandvideobridge
+2. hyprshot
 
 ### Packages i use on i3.
 
