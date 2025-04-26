@@ -27,6 +27,7 @@ Arch BTW
 8. grim
 9. slurp
 10. wl-clipboard
+11. nerd-fonts
 
 #### Aur packages i use on hyprland.
 
