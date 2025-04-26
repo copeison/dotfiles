@@ -1,7 +1,7 @@
 {
   "layer": "top",
   "position": "top",
-  "modules-left": ["sway/workspaces", "sway/mode", "custom/spotify"],
+  "modules-left": ["tray", "hyprland/workspaces", "hyprland/submap", "custom/spotify"],
   "modules-center":["wlr/taskbar"],
   "modules-right": ["pulseaudio", "backlight", "temperature", "cpu", "memory", "battery", "clock"],
   
@@ -30,6 +30,10 @@
       "on-scroll-down": "shift_down"
     }
   },
+  "tray": {
+        // "icon-size": 21,
+        "spacing": 10,
+   },
   "pulseaudio": {
     "format": "{volume}% {icon} {format_source} ",
     "format-muted": "󰝟 {format_source}",
@@ -46,7 +50,7 @@
     },
     "on-click": "pwvucontrol"
   },
-  "sway/workspaces": {
+  "hyprland/workspaces": {
     "window-resize": {},
     "disable-scroll": true
   },

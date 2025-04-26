@@ -7,7 +7,7 @@
   }
   
   window#waybar {
-    background-color: rgba(40, 40, 40, 0.80);
+    background-color: rgba(48, 52, 70, 0.70);
     color: #ebdbb2;
     transition-property: background-color;
     transition-duration: 0.5s;
@@ -133,6 +133,9 @@
   
   #clock {
       color: #b16286;
+  }
+
+  #tray {
   }
   
   @keyframes blink {
