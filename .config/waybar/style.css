@@ -34,9 +34,9 @@
     background-color: #cc241d;
   }
   #workspaces button:hover {
-    background:#62918d;
+    background:#F2D5CF;
     /*background-color: #cc241d;*/
-    color: #282828;
+    color: #303446;
     animation: tb_hover 5s ease-in-out 1;
     transition: all 0.2s cubic-bezier(.55,-0.68,.48,1.682);
   }
@@ -57,7 +57,7 @@
   }
   
   #taskbar button.active {
-      background: #57807d;
+      background: #BABBF1;
       color: @wb-act-color;
       margin-left: 3px;
       padding-left: 12px;
@@ -68,7 +68,7 @@
   }
   
   #taskbar button:hover {
-      background: #458588;
+      background: #F2D5CF;
       color: #282828;
       animation: tb_hover 5s ease-in-out 1;
       transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);

@@ -1,12 +1,13 @@
 {
   "layer": "top",
   "position": "top",
-  "modules-left": ["tray", "hyprland/workspaces", "hyprland/submap", "custom/spotify"],
+  "mode": "dock",
+  "modules-left": ["tray", "hyprland/workspaces", "hyprland/submap"],
   "modules-center":["wlr/taskbar"],
-  "modules-right": ["pulseaudio", "backlight", "temperature", "cpu", "memory", "battery", "clock"],
+  "modules-right": ["custom/spotify", "pulseaudio", "backlight", "battery", "clock"],
   
   "clock": {
-    "format": "{:%a, %B %d, %Y (%I:%M:%S %p)}  ",
+    "format": "{:%I:%M:%S %p}  ",
     //"format-alt": "{:%a, %B %d, %Y (%I:%M:%S %p)}  ",
     "tooltip-format": "<tt><small>{calendar}</small></tt>",
     "calendar": {
