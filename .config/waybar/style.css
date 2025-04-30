@@ -8,7 +8,7 @@
   
   window#waybar {
     background-color: rgba(48, 52, 70, 0.70);
-    color: #ebdbb2;
+    color: #303446;
     transition-property: background-color;
     transition-duration: 0.5s;
     border-bottom: solid 0px #3c3836;
@@ -120,7 +120,7 @@
   #clock
   
   #pulseaudio {
-      color: #689d6a;
+      color: #A6D189;
   }
   
   #backlight {
@@ -132,7 +132,7 @@
   }
   
   #clock {
-      color: #b16286;
+      color: #C6D0F5;
   }
 
   #tray {
@@ -153,7 +153,7 @@
   
   tooltip {
     border-radius: 5px;
-    background: #504945;
+    background: #303446;
   }
   
   tooltip label {
