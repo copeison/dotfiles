@@ -15,6 +15,7 @@ Arch BTW
 7. hyprland
 8. hyprpaper
 9. waybar
+10. mako
 
 ### Packages i use on hyprland.
 1. hyprland
