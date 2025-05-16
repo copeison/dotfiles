@@ -32,8 +32,7 @@ Arch BTW
 
 #### Aur packages i use on hyprland.
 
-1. xwaylandvideobridge
-2. hyprshot
+1. hyprshot
 
 ### Packages i use on i3.
 
