@@ -4,10 +4,10 @@
   "mode": "dock",
   "modules-left": ["tray", "hyprland/workspaces", "hyprland/submap"],
   "modules-center":["wlr/taskbar"],
-  "modules-right": ["custom/spotify", "pulseaudio", "backlight", "battery", "clock"],
+  "modules-right": ["pulseaudio", "backlight", "battery", "clock"],
   
   "clock": {
-    "format": "{:%I:%M:%S %p}  ",
+    "format": "{:%I:%M %p}  ",
     //"format-alt": "{:%a, %B %d, %Y (%I:%M:%S %p)}  ",
     "tooltip-format": "<tt><small>{calendar}</small></tt>",
     "calendar": {
@@ -36,10 +36,10 @@
         "spacing": 10,
    },
   "pulseaudio": {
-    "format": "{volume}% {icon} {format_source} ",
-    "format-muted": "󰝟 {format_source}",
-    "format-source": "   {volume}% ",
-    "format-source-muted": " ",
+    "format": "{volume}% {icon}",
+    "format-muted": "󰝟 ",
+    //"format-source": "   {volume}% ",
+    //"format-source-muted": " ",
     "format-icons": {
       "headphone": "",
       "hands-free": "󱠰",
@@ -85,11 +85,4 @@
     "on-click": "minimize-raise",
     "on-click-right": "close"
   },
-  "custom/spotify": {
-        "format": " {}",
-        "max-length": 40,
-        "interval": 30, // Remove this if your script is endless and write in loop
-        "exec": "$HOME/.config/waybar/mediaplayer.sh 2> /dev/null", // Script in resources folder
-        "exec-if": "pgrep spotify"
-    }
 }
